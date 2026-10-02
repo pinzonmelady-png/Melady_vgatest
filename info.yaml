@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      # Mel
-  author:       ""      # Mélady Pinzón
+  title:        "Mel"      # Mel
+  author:       "Mélady Pinzón"      # Mélady Pinzón
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # Es un chip de Tiny Tapeout en Verilog que genera una demo visual VGA (640x480 @ 60 Hz) sin CPU, GPU ni RAM: cada píxel se calcula en tiempo real.
+  description:  " Es un chip de Tiny Tapeout en Verilog que genera una demo visual VGA (640x480 @ 60 Hz) sin CPU, GPU ni RAM: cada píxel se calcula en tiempo real.¨
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
